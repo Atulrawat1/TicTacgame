@@ -1,2 +1,3 @@
 # TicTacgame
-written in C
+written in C programming language
+
